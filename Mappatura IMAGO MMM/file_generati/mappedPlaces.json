@@ -1,0 +1,711 @@
+{
+  "Aberystwyth": [
+    "aberystwyth"
+  ],
+  "Admont": [
+    "admont"
+  ],
+  "Alen\u00e7on": [
+    "alen\u00e7on",
+    "alencon"
+  ],
+  "Amburgo": [
+    "hamburg"
+  ],
+  "Amiens": [
+    "amiens"
+  ],
+  "Arezzo": [
+    "arezzo"
+  ],
+  "Arras": [
+    "arras"
+  ],
+  "Assisi": [
+    "assisi"
+  ],
+  "Augusta": [
+    "augsburg"
+  ],
+  "Bad Windsheim": [
+    "bad windsheim"
+  ],
+  "Baltimora": [
+    "baltimore"
+  ],
+  "Barcellona": [
+    "barcelona"
+  ],
+  "Basilea": [
+    "basel",
+    "b\u00e2le",
+    "basilea",
+    "bale"
+  ],
+  "Beaune": [
+    "beaune"
+  ],
+  "Belluno": [
+    "belluno"
+  ],
+  "Bergamo": [
+    "bergamo"
+  ],
+  "Berlino": [
+    "berlin"
+  ],
+  "Berna": [
+    "berne",
+    "bern",
+    "berna"
+  ],
+  "Besan\u00e7on": [
+    "besan\u00e7on",
+    "besancon"
+  ],
+  "Bologna": [
+    "bologna"
+  ],
+  "Bonn": [
+    "bonn"
+  ],
+  "Bratislava": [
+    "bratislava"
+  ],
+  "Brema": [
+    "bremen",
+    "freie hansestadt bremen"
+  ],
+  "Breslavia": [
+    "wroc\u0142aw",
+    "wroclaw"
+  ],
+  "Brno": [
+    "brno"
+  ],
+  "Bruges": [
+    "br\u00fcgge",
+    "bruges",
+    "brugge",
+    "brugge"
+  ],
+  "Bruxelles": [
+    "stad brussel",
+    "ville de bruxelles",
+    "stadt br\u00fcssel",
+    "brussels",
+    "stadt brussel",
+    "bruxelles"
+  ],
+  "Budapest": [
+    "budapest"
+  ],
+  "Cambrai": [
+    "cambrai"
+  ],
+  "Cambridge": [
+    "cambridge"
+  ],
+  "Cambridge (MA)": [
+    "harvard"
+  ],
+  "Cesena": [
+    "cesena"
+  ],
+  "Charleville-M\u00e9zi\u00e8res": [
+    "charleville-m\u00e9zi\u00e8res",
+    "charleville-mezieres"
+  ],
+  "Chartres": [
+    "chartres"
+  ],
+  "Chicago": [
+    "chicago"
+  ],
+  "Cincinnati": [
+    "cincinnati"
+  ],
+  "Citt\u00e0 del Vaticano": [
+    "civitas vaticana",
+    "cit\u00e9 du vatican",
+    "citt\u00e0 del vaticano",
+    "vatican",
+    "cite du vatican",
+    "citta del vaticano"
+  ],
+  "Colmar": [
+    "colmar"
+  ],
+  "Colonia": [
+    "k\u00f6ln",
+    "cologne",
+    "koln"
+  ],
+  "Como": [
+    "como"
+  ],
+  "Copenaghen": [
+    "k\u00f8benhavn",
+    "copenhagen",
+    "kobenhavn"
+  ],
+  "Cracovia": [
+    "krak\u00f3w",
+    "krak\u016fw",
+    "krak\u00f2w\u00f2",
+    "krakow",
+    "krakuw",
+    "krakowo",
+    "cracow"
+  ],
+  "Cremona": [
+    "cremona"
+  ],
+  "Darmstadt": [
+    "darmstadt"
+  ],
+  "Douai": [
+    "douai"
+  ],
+  "Dresda": [
+    "dresden"
+  ],
+  "Dublino": [
+    "dublin",
+    "baile \u00e1tha cliath",
+    "baile atha cliath"
+  ],
+  "D\u00fcsseldorf": [
+    "d\u00fcsseldorf",
+    "dusseldorf"
+  ],
+  "El Escorial": [
+    "el escorial"
+  ],
+  "Erfurt": [
+    "erfurt"
+  ],
+  "Ferrara": [
+    "ferrara"
+  ],
+  "Fiecht": [],
+  "Filadelfia": [
+    "philadelphia",
+    "university of pennsylvania"
+  ],
+  "Firenze": [
+    "florence",
+    "firenze"
+  ],
+  "Francoforte sul Meno": [
+    "frankfurt",
+    "frankfurt am main"
+  ],
+  "Friburgo": [
+    "friburg",
+    "freiburg im \u00fcechtland",
+    "fribourg",
+    "friburgo",
+    "freiburg im uechtland",
+    "freiburg"
+  ],
+  "Fulda": [
+    "fulda"
+  ],
+  "Gand": [
+    "gand",
+    "ghent",
+    "gent"
+  ],
+  "Gda\u0144sk Po\u0142udnie": [
+    "gda\u0144sk po\u0142udnie",
+    "cho\u0142m \u00eb gdu\u0144sk p\u00f4\u0142nie",
+    "gdansk poludnie",
+    "cholm e gdunsk polnie"
+  ],
+  "Genova": [
+    "genova",
+    "genoa"
+  ],
+  "Gerona": [
+    "girona",
+    "gerona"
+  ],
+  "Gie\u00dfen": [
+    "giessen",
+    "gie\u00dfen",
+    "giessen"
+  ],
+  "Glasgow": [
+    "glasgow"
+  ],
+  "Gotha": [
+    "gotha"
+  ],
+  "Gottinga": [
+    "g\u00f6ttingen",
+    "gottingen"
+  ],
+  "Graz": [
+    "graz"
+  ],
+  "Groninga": [
+    "groningen"
+  ],
+  "G\u00f6ttweig": [],
+  "Halberstadt": [
+    "halberstadt"
+  ],
+  "Hannover": [
+    "hannover",
+    "hanover"
+  ],
+  "Heiligenkreuz": [
+    "heiligenkreuz"
+  ],
+  "Innsbruck": [
+    "innsbruck"
+  ],
+  "Irkutsk": [
+    "irkutsk"
+  ],
+  "Itacha": [],
+  "Jena": [
+    "jena"
+  ],
+  "Kaliningrad": [
+    "kaliningrad"
+  ],
+  "Karlsruhe": [
+    "karlsruhe"
+  ],
+  "Kassel": [
+    "kassel"
+  ],
+  "Kiel": [
+    "kiel"
+  ],
+  "Klagenfurt am W\u00f6rthersee": [
+    "klagenfurt",
+    "klagenfurt am w\u00f6rthersee",
+    "klagenfurt am worthersee"
+  ],
+  "Klosterneuburg": [
+    "klosterneuburg"
+  ],
+  "Ko\u0161ice": [
+    "ko\u0161ice",
+    "kosice"
+  ],
+  "Kremsm\u00fcnster": [
+    "kremsm\u00fcnster",
+    "kremsmunster"
+  ],
+  "K\u00f3rnik": [
+    "k\u00f3rnik",
+    "k\u016fr\u0144ik",
+    "kornik",
+    "kurnik"
+  ],
+  "Laon": [
+    "laon"
+  ],
+  "Lawrence": [
+    "lawrence"
+  ],
+  "Leida": [
+    "leiden"
+  ],
+  "Liegi": [
+    "l\u00fcttich",
+    "li\u00e8ge",
+    "luik",
+    "luttich",
+    "liege"
+  ],
+  "Lilienfeld": [
+    "lilienfeld"
+  ],
+  "Lilla": [
+    "lille"
+  ],
+  "Lindau (Bodensee)": [
+    "lindau"
+  ],
+  "Lione": [
+    "lyon"
+  ],
+  "Lipsia": [
+    "leipzig"
+  ],
+  "Lisbona": [
+    "lisboa",
+    "lisboua",
+    "lisbon"
+  ],
+  "Londra": [
+    "london"
+  ],
+  "Lucca": [
+    "lucca"
+  ],
+  "Lucerna": [
+    "lucerna",
+    "lucerne",
+    "luzern"
+  ],
+  "Lussemburgo": [
+    "luxembourg",
+    "luxemburg",
+    "l\u00ebtzebuerg",
+    "letzebuerg"
+  ],
+  "L\u00fcneburg": [
+    "l\u00fcneburg",
+    "luneburg"
+  ],
+  "Madrid": [
+    "madrid"
+  ],
+  "Magdeburgo": [
+    "magdeburg"
+  ],
+  "Magonza": [
+    "mainz"
+  ],
+  "Maria Saal": [
+    "maria saal"
+  ],
+  "Maynooth": [
+    "maigh nuad",
+    "maynooth"
+  ],
+  "Melk": [
+    "melk"
+  ],
+  "Metz": [
+    "metz"
+  ],
+  "Michaelbeuern": [],
+  "Milano": [
+    "milan",
+    "milano"
+  ],
+  "Minneapolis": [
+    "minneapolis"
+  ],
+  "Modena": [
+    "modena"
+  ],
+  "Monaco di Baviera": [
+    "m\u00fcnchen",
+    "munich",
+    "munchen",
+    "muenchen"
+  ],
+  "Montecassino": [
+    "montecassino",
+    "monte cassino"
+  ],
+  "Montpellier": [
+    "montpellier"
+  ],
+  "Munster": [
+    "munster"
+  ],
+  "Namur": [
+    "namen",
+    "namur"
+  ],
+  "Nancy": [
+    "nancy"
+  ],
+  "Napoli": [
+    "naples",
+    "napoli"
+  ],
+  "Neuburg": [
+    "neuburg"
+  ],
+  "New Haven": [
+    "new haven"
+  ],
+  "New York": [
+    "new york"
+  ],
+  "Norimberga": [
+    "n\u00fcrnberg",
+    "nuremberg",
+    "nurnberg"
+  ],
+  "Olomouc": [
+    "olomouc"
+  ],
+  "Opladen": [],
+  "Orl\u00e9ans": [
+    "orl\u00e9ans",
+    "orleans"
+  ],
+  "Oxford": [
+    "oxford"
+  ],
+  "Paderborn": [
+    "paderborn"
+  ],
+  "Padova": [
+    "padova",
+    "padua"
+  ],
+  "Palermo": [
+    "palermo"
+  ],
+  "Parigi": [
+    "paris"
+  ],
+  "Parma": [
+    "parma"
+  ],
+  "Pavia": [
+    "pavia"
+  ],
+  "Pelplin": [
+    "pelplin"
+  ],
+  "Piacenza": [
+    "piacenza"
+  ],
+  "Pistoia": [
+    "pistoia"
+  ],
+  "Poitiers": [
+    "poitiers"
+  ],
+  "Pommersfelden": [
+    "pommersfelden"
+  ],
+  "Porto": [
+    "porto"
+  ],
+  "Praga": [
+    "prague",
+    "praha"
+  ],
+  "Princeton": [
+    "princeton"
+  ],
+  "P\u00e9rigueux": [
+    "p\u00e9rigueux",
+    "perigueux"
+  ],
+  "Ravenna": [
+    "ravenna"
+  ],
+  "Reims": [
+    "reims"
+  ],
+  "Rein": [
+    "rein"
+  ],
+  "Rimini": [
+    "rimini"
+  ],
+  "Roma": [
+    "rome",
+    "roma"
+  ],
+  "Rouen": [
+    "rouen"
+  ],
+  "Saint-Bonaventure": [
+    "saint-bonaventure",
+    "st. bonaventure"
+  ],
+  "Saint-Omer": [
+    "saint-omer"
+  ],
+  "Salamanca": [
+    "salamanca"
+  ],
+  "Salisburgo": [
+    "salzburg"
+  ],
+  "San Gallo": [
+    "son gagl",
+    "san gallo",
+    "st. gallen",
+    "saint-gall"
+  ],
+  "Sankt Florian": [
+    "sankt florian",
+    "st. florian"
+  ],
+  "Sankt Paul im Lavanttal": [
+    "sankt paul im lavanttal"
+  ],
+  "Santiago di Compostela": [
+    "santiago de compostela"
+  ],
+  "Schlierbach": [
+    "schlierbach"
+  ],
+  "Schl\u00e4gl": [
+    "schl\u00e4gl",
+    "schlagl"
+  ],
+  "Sciaffusa": [
+    "schaffusa",
+    "sciaffusa",
+    "schaffhouse",
+    "schaffhausen"
+  ],
+  "Siena": [
+    "siena"
+  ],
+  "Siviglia": [
+    "sevilla",
+    "seville"
+  ],
+  "Soissons": [
+    "soissons"
+  ],
+  "Stoccarda": [
+    "stuttgart"
+  ],
+  "Strasburgo": [
+    "strasbourg"
+  ],
+  "Subiaco": [
+    "subiaco"
+  ],
+  "Sydney": [
+    "sydney"
+  ],
+  "Tarragona": [
+    "tarragona"
+  ],
+  "Torino": [
+    "torino",
+    "turin"
+  ],
+  "Toru\u0144": [
+    "toru\u0144",
+    "tor\u016f\u0144",
+    "tor\u0144",
+    "torun",
+    "torun",
+    "torn"
+  ],
+  "Tournai": [
+    "tournai",
+    "doornik"
+  ],
+  "Tours": [
+    "tours"
+  ],
+  "Trento": [
+    "trento"
+  ],
+  "Treviri": [
+    "trier"
+  ],
+  "Treviso": [
+    "treviso"
+  ],
+  "Troyes": [
+    "troyes"
+  ],
+  "T\u0159ebo\u0148": [
+    "t\u0159ebo\u0148",
+    "trebon"
+  ],
+  "Udine": [
+    "udine"
+  ],
+  "Ulm": [
+    "ulm"
+  ],
+  "Uppsala": [
+    "uppsala"
+  ],
+  "Utrecht": [
+    "utrecht"
+  ],
+  "Valencia": [
+    "valencia"
+  ],
+  "Valenciennes": [
+    "valenciennes"
+  ],
+  "Valladolid": [
+    "valladolid"
+  ],
+  "Varsavia": [
+    "warszawa",
+    "warsaw"
+  ],
+  "Venezia": [
+    "venezia",
+    "venice"
+  ],
+  "Vercelli": [
+    "vercelli"
+  ],
+  "Verona": [
+    "verona"
+  ],
+  "Vesoul": [
+    "vesoul"
+  ],
+  "Vienna": [
+    "vienna",
+    "wien"
+  ],
+  "Vorau": [
+    "vorau"
+  ],
+  "Vy\u0161\u0161\u00ed Brod": [
+    "vy\u0161\u0161\u00ed brod",
+    "vyssi brod"
+  ],
+  "Weimar": [
+    "weimar"
+  ],
+  "Westminster": [
+    "westminster"
+  ],
+  "Wilhering": [
+    "wilhering"
+  ],
+  "Wolfenb\u00fcttel": [
+    "wolfenb\u00fcttel",
+    "wolfenbuttel"
+  ],
+  "W\u00fcrzburg": [
+    "w\u00fcrzburg",
+    "wurzburg"
+  ],
+  "York": [
+    "york"
+  ],
+  "Zurigo": [
+    "turitg",
+    "zurigo",
+    "z\u00fcrich",
+    "zurich",
+    "zurich"
+  ],
+  "Zwettl": [
+    "zwettl"
+  ],
+  "Zwickau": [
+    "zwickau"
+  ],
+  "\u00c9pernay": [
+    "\u00e9pernay",
+    "epernay"
+  ],
+  "\u00c9pinal": [
+    "\u00e9pinal",
+    "epinal"
+  ]
+}
