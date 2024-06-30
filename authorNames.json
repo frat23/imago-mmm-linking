@@ -1,0 +1,187 @@
+{
+  "Alexander Ariostus": [
+    "Ariosto, Alessandro",
+    "ariost"
+  ],
+  "Ambrosius Traversarius": [
+    "Traversari, Ambrogio",
+    "traversar"
+  ],
+  "Beda Venerabilis": [
+    "Bede, the Venerable",
+    "bed"
+  ],
+  "Burchardus de Monte Sion": [
+    "Burchard, of Mount Sion",
+    "b(ur|ro)ch?ard"
+  ],
+  "Franciscus Petrarcha": [
+    "Petrarca, Francesco",
+    "petrarc"
+  ],
+  "Franciscus Pipinus": [
+    "Pipinus, Franciscus",
+    "pipin"
+  ],
+  "Giraldus Cambrensis": [
+    "Giraldus, Cambrensis",
+    "girald"
+  ],
+  "Guidus Pisanus": [
+    "Guido, da Pisa",
+    "guid"
+  ],
+  "Hugo de Sancto Victore": [
+    "Hugh, of Saint-Victor",
+    "hug"
+  ],
+  "Iohannes Boccaccius": [
+    "Boccaccio, Giovanni",
+    "boccacc"
+  ],
+  "Iohannes de Dondis ab Horologio": [
+    "Dondi dall'Orologio, Giovanni",
+    "h?orologi"
+  ],
+  "Iohannes de Mandavilla": [
+    "Mandeville, John",
+    "mand[ae]vill"
+  ],
+  "Iohannes de Plano Carpini": [
+    "Giovanni, da Pian del Carpine",
+    "carpin"
+  ],
+  "Leo Baptista Albertus": [
+    "Alberti, Leon Battista",
+    "alberti"
+  ],
+  "Leonardus Brunus": [
+    "Bruni, Leonardo",
+    "bruni"
+  ],
+  "Petrus Diaconus": [
+    "Petrus, Diaconus",
+    "petr"
+  ],
+  "Petrus Paulus Vergerius": [
+    "Vergerio, Pietro Paolo",
+    "verger"
+  ],
+  "Ricobaldus Ferrariensis": [
+    "Riccobaldus, Ferrariensis",
+    "riccobald"
+  ],
+  "Bonvicinus de Ripa": [
+    "Bonvesin, da la Riva",
+    "bonvicin"
+  ],
+  "Dicuil Hibernicus": [
+    "Dicuil",
+    "dicuil"
+  ],
+  "Odoricus de Portu Naonis": [
+    "Odorico, da Pordenone",
+    "odoric"
+  ],
+  "Pseudo Eucherius Lugdunensis": [
+    "Eucherius of Lyon, pseudo",
+    "eucheri"
+  ],
+  "Ricoldus de Monte Crucis": [
+    "Ricoldo, da Montecroce",
+    "ricold"
+  ],
+  "Agostinus Patricius Piccolomineus": [
+    "Augustinus Patricius Piccolomineus Pientinus",
+    "piccolomine"
+  ],
+  "Felix Fabri": [
+    "Fabri, Felix",
+    "fabri"
+  ],
+  "Guillelmus de Rubruc": [
+    "Ruysbroeck, Willem van",
+    "ruysbroeck"
+  ],
+  "Hieronymus Paulus": [
+    "Hieronymus Paulus",
+    "hieronym"
+  ],
+  "Rorgus Fretellus de Nazareth": [
+    "Fretellus, Rorgo",
+    "fretell"
+  ],
+  "Johannes Presbyter": [
+    "Prester John",
+    "pres(ter|b(yteri?)?)\\b"
+  ],
+  "Sanctus Brendanus": [
+    "Brendan, Saint",
+    "brendan"
+  ],
+
+  "Bernardus Bembus": [
+    "Bembo, Bernardo",
+    "bemb"
+  ],
+  "Blondus Flavius": [
+    "Biondo Flavio",
+    "b[li]ond"
+  ],
+  "Christophorus Bondelmontius": [
+    "Buondelmonti, Cristoforo",
+    "bu?ondelmont"
+  ],
+  "Cyriacus Anconitanus": [
+    "Ciriaco, d'Ancona",
+    "c[yi]riac"
+  ],
+  "Gervasius Tilberiensis": [
+    "Gervase, of Tilbury",
+    "gervas[^\n]+ tilb[eu]r"
+  ],
+  "Guido de Basochis": [
+    "Guy, of Bazoches",
+    "ba[sz]och"
+  ],
+  "Guilielmus de Boldensele": [
+    "Guillelmus de Boldensele",
+    "boldensele"
+  ],
+  "Hrabanus Maurus": [
+    "Rabanus Maurus",
+    "h?raban"
+  ],
+  "Iacobus Angeli de Scarperia": [
+    "Jacobus, Angelus de Scarperia",
+    "scarperia"
+  ],
+  "Iacobus Bracellus": [
+    "Bracelli, Giacomo",
+    "bracell"
+  ],
+  "Iacobus Utinensis": [
+    "Jacobus de Utino",
+    "[ij]aco[bp][^\n]+ utin"
+  ],
+  "Iannotius Manettus": [
+    "Manetti, Giannozzo",
+    "manett"
+  ],
+  "Iohannes Chrysostomus Zanchus": [
+    "John Chrysostom",
+    "ch?r[iy]sostom"
+  ],
+  "Lucianus Cestrensis monachus": [
+    "Lucianus, Cestrensis",
+    "lucian[^\n]+ cestr"
+  ],
+  "Mapheus Vegius Laudensis": [
+    "Vegio, Maffeo",
+    "ma(ff|ph)e"
+  ],
+  "Petrus Mallii": [
+    "Mallius, Petrus",
+    "malli"
+  ]
+}
